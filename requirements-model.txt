@@ -1,0 +1,8 @@
+# Model pipeline dependencies (the scorer's own deps live in requirements.txt)
+lightgbm>=4.0
+numpy>=1.26,<3
+pandas>=2.0,<3
+scikit-learn>=1.4
+matplotlib>=3.8,<4
+reportlab>=4.0
+pypdf>=4.0
